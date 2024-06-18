@@ -1,4 +1,4 @@
-# WOptiRoute
+# OptiRoute
  Implementation of Google map path algorithm by implementing Dijkstra Algorithm. 
  Developed with backend services in C++
  Assists with daily commutes
